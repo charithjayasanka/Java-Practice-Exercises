@@ -1,2 +1,1 @@
-# hello-world
-My first
+#This will contain java exercises
