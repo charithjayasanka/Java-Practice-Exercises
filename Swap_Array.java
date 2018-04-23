@@ -1,5 +1,5 @@
 import java.util.Arrays; 
- public class Exercise81 {
+ public class Swap_Array.java {
  public static void main(String[] args)
  {
     int[] array_nums = {20, 30, 40};
